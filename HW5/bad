@@ -1,0 +1,13 @@
+TestGraph.cxx: In function ‘bool depthFirstSearch(const elizabeth_white_stl_vector_adjacency_matrix::Graph&, const std::vector<std::basic_string<char> >&, const string&, std::map<std::basic_string<char>, bool>&, std::vector<std::basic_string<char> >&, std::map<std::basic_string<char>, std::basic_string<char> >&)’:
+TestGraph.cxx:193:7: error: expected ‘(’ before ‘________________________________________________’
+TestGraph.cxx: In function ‘bool breadthFirstSearch(const elizabeth_white_stl_vector_adjacency_matrix::Graph&, const std::vector<std::basic_string<char> >&, const string&, std::map<std::basic_string<char>, bool>&, std::vector<std::basic_string<char> >&, std::map<std::basic_string<char>, std::basic_string<char> >&)’:
+TestGraph.cxx:238:7: error: expected ‘(’ before ‘________________________________________________’
+TestGraph.cxx: In function ‘void initGraphFromFile(elizabeth_white_stl_vector_adjacency_matrix::Graph&, std::vector<std::basic_string<char> >&, const string&, double)’:
+TestGraph.cxx:374:8: error: expected ‘(’ before ‘_______________________’
+TestGraph.cxx: In function ‘int main()’:
+TestGraph.cxx:426:3: error: ‘__________________________’ was not declared in this scope
+TestGraph.cxx:427:10: error: expected ‘(’ before ‘_________________________’
+TestGraph.cxx:427:10: error: ‘_________________________’ was not declared in this scope
+TestGraph.cxx:427:35: error: expected ‘)’ before ‘;’ token
+make[1]: *** [TestGraph] Error 1
+make: *** [all] Error 2
